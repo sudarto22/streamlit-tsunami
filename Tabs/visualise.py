@@ -6,9 +6,6 @@ from sklearn import tree
 import streamlit as st
 from sklearn.tree import plot_tree
 from web_function import train_model
-import pydotplus
-from IPython.display import Image
-import graphviz
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 import pandas as pd
