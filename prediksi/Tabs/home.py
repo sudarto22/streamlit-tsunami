@@ -7,3 +7,5 @@ def app():
     #st.title("Aplikasi Prediksi Tsunami Gempa Bumi Dengan Algoritma Pohon Keputusan C45")
     st.markdown("<h1 style='text-align: center;'>Aplikasi Prediksi Tsunami Gempa Bumi Dengan Algoritma Pohon Keputusan C45</h1>", unsafe_allow_html=True)
     
+# Footer
+    st.markdown("<p style='text-align: right;'>© 2023 Sudarto. All rights reserved.</p>", unsafe_allow_html=True)
