@@ -4,6 +4,6 @@ import streamlit as st
 
 def app():
     #judul halaman aplikasi
-    #st.title("Aplikasi Prediksi Tsunami Gempa Bumi Dengan Algoritma Pohon Keputusan C45")
-    st.markdown("<h1 style='text-align: center;'>Aplikasi Prediksi Tsunami Gempa Bumi Dengan Algoritma Pohon Keputusan C45</h1>", unsafe_allow_html=True)
+    #st.title("Aplikasi Klasifikasi Tsunami Pasca Gempa Bumi Dengan Teknik Stacking Ensemble")
+    st.markdown("<h1 style='text-align: center;'>Aplikasi Klasifikasi Tsunami Pasca Gempa Bumi Dengan Teknik Stacking Ensemble</h1>", unsafe_allow_html=True)
     
